@@ -8,7 +8,7 @@ First use of an API!
 
 
 # Images
-![Psychic Game](https://i.imgur.com/E9fTYLa.jpg)
+![NBA Gifs](https://i.imgur.com/E9fTYLa.jpg)
 
 # technology used
 
