@@ -1,0 +1,37 @@
+body {
+    background-image:url(../images/woodlogos.jpg);
+}
+
+.btn {
+    margin: 2px;
+}
+
+.gif {
+    display:block;
+    margin: auto;
+}
+
+p {
+    text-align:center;
+    display:block;
+    margin:auto;
+    font-family:'Muli', sans-serif;
+    font-size:x-large;
+    font-weight:bold;
+    color: white;
+}
+
+#buttons-go-here {
+    background-image:url(../images/wallpaper2you_112437.jpg);
+    background-size:contain;
+}
+
+#search-div {
+    background-image:url(../images/wallpaper2you_112437.jpg);
+    background-size:contain;    
+}
+
+#gifs-go-here {
+    background-image:url(../images/wallpaper2you_112437.jpg);
+    background-size:contain;
+}
