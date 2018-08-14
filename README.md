@@ -4,7 +4,7 @@ First use of an API!
 
 
 # Link to deployed site
-[Psychic Game](https://skeeis.github.io/Giphy-Search/)
+[Giphy Search via API](https://skeeis.github.io/Giphy-Search/)
 
 
 # Images
